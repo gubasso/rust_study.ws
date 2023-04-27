@@ -4,4 +4,5 @@ members = [
     "book_15_5_refcell",
     "rc_manipulation",
     "lists",
+    "linked_list_implementations",
 ]
