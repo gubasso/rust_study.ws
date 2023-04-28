@@ -5,4 +5,5 @@ members = [
     "rc_manipulation",
     "lists",
     "linked_list_implementations",
+    "treenode_to_vec",
 ]
