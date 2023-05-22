@@ -6,4 +6,5 @@ members = [
     "lists",
     "linked_list_implementations",
     "treenode_to_vec",
+    "icc_simple_doubly_linked_list",
 ]
