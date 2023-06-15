@@ -10,4 +10,5 @@ members = [
     "p24_swap_nodes_in_pairs_review_01",
     "p24_swap_nodes_in_pairs_review_02",
     "invert_linked_list",
+    "icc_arrays_and_strings_prefix_sum_example_1",
 ]
