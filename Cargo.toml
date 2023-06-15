@@ -9,4 +9,5 @@ members = [
     "icc_simple_doubly_linked_list",
     "p24_swap_nodes_in_pairs_review_01",
     "p24_swap_nodes_in_pairs_review_02",
+    "invert_linked_list",
 ]
